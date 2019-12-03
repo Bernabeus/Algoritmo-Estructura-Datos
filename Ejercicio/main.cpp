@@ -130,7 +130,7 @@ int menu()
         cout << endl;
         if((op < 0) || (op > 7))
         {
-            cout << "¡Opcion no válida!" << endl;
+            cout << "Â¡Opcion no valida!" << endl;
         }
     }
     return op;
