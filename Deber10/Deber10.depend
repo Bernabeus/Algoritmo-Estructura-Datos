@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1578265243 source:c:\users\sladorm\desktop\code\deber10\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+
