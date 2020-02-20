@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1582211275 source:c:\users\algoritmos\desktop\nueva carpeta\headpsort\main.cpp
+	<iostream>
+	"head.h"
+	"headpsort.h"
+	"mostrar.h"
+
+1582214320 c:\users\algoritmos\desktop\nueva carpeta\headpsort\head.h
+
+1582214246 c:\users\algoritmos\desktop\nueva carpeta\headpsort\headpsort.h
+
+1582214320 c:\users\algoritmos\desktop\nueva carpeta\headpsort\mostrar.h
+
